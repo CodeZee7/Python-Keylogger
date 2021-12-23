@@ -82,4 +82,4 @@ Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
 
 ## Disclaimer
-This project is meant ethical and/or educational purposes ONLY. I will not be responsible for any consequences of the script being used maliciously nor do I condone the use of it in a way where it will harm others.
+This project is meant ethical and/or educational purposes ONLY. I will not be responsible for any consequences of the script being used maliciously nor do I condone the use of it in any way where it will harm others.
