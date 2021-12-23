@@ -1,5 +1,7 @@
 # Python-Keylogger
 > A keylogger programmed in Python as an example of ethical hacking.
+> 
+> Tutorial coming soon!
 
 <!-- > Live demo [_here_](https://www.example.com). If you have the project hosted somewhere, include the link here. -->
 
@@ -16,69 +18,44 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- This is a simple keylogger.
+- It solves many problems in cybersecurity and is used by various organisations.
+- The purpose of a keylogger is to identify and log/keep track of, the keys that the user presses
+- I decided to complete this project while i was researching and learning about cybersecurity and ethical hacking. I plan to do a tutorial on this if I haven't already!
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- This program uses key logging technologies such as keyboard listeners to listen to which keys the user presses.
 
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+- When the script is run, it starts listening to the keys pressed while the device is being used
+- The keys are then formatted and a text file is created if it does not exist.
+- The keys are stored in the log.txt file to be accessed after.
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+A requirement of this project is the pynput module. Run the following pip command in CMD.
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+    pip install pynput
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+To use the program, you do not need to create the txt file as it will automatically be created. You run the python script and the keylogger will have started. Once the user presses esc, the program will running and you can locate log.txt in the same directory as the python file.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+Project is: complete, but may have future amendments in order to improve the project.
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+Credits
+- This project was created by Zeeshan Ibrahim (CodeZee)
+- [Here](https://www.example.com/) is the tutorial for the project.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@CodeZee](https://www.example.com) - feel free to contact me!
 
 
 ## Disclaimer
