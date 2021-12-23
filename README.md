@@ -45,7 +45,7 @@ To use the program, you do not need to create the txt file as it will automatica
 
 
 ## Project Status
-Project is: complete, but may have future amendments in order to improve the project.
+Project is: _complete_, but may have future amendments in order to improve the project.
 
 
 ## Acknowledgements
