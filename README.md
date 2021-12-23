@@ -21,7 +21,7 @@
 - This is a simple keylogger.
 - It solves many problems in cybersecurity and is used by various organisations.
 - The purpose of a keylogger is to identify and log/keep track of, the keys that the user presses
-- I decided to complete this project while i was researching and learning about cybersecurity and ethical hacking. I plan to do a tutorial on this if I haven't already!
+- I decided to complete this project while I was researching and learning about cybersecurity and ethical hacking. I plan to do a tutorial on this if I haven't already!
 
 
 ## Technologies Used
