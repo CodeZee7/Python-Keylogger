@@ -12,7 +12,7 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
+* [Acknowledgements & Tutorial](#acknowledgements)
 * [Contact](#contact)
 * [Disclaimer](#disclaimer)
 
